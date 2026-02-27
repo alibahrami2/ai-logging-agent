@@ -239,3 +239,7 @@ You now have:
 ---
 
 Happy Building 🚀
+
+## **Author** ✍️
+
+Created by [Ali Bahrami](https://github.com/alibahrami2). If you find this repository helpful, feel free to fork it or contribute!
